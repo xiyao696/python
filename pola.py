@@ -29,6 +29,7 @@ if q == 3:
     print("Pole prostokata!")
     a = int(input("Podaj wartosc a: "))
     b = int(input("Podaj wartosc b: "))
+    p = a * b
     print("Pole prostokata wynosi: ", p)
     time.sleep(20)
 
@@ -47,7 +48,7 @@ if q == 5:
     p = a * h
     print("Pole rombu wynosi: ", p)
     time.sleep(20)
-    
+
 if q == 6:
     print("Pole trapezu!")
     a = int(input("Podaj wartosc a: "))

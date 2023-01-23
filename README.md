@@ -1,2 +1,2 @@
 # python
-Każdy kod jest autorskii!
+Discord: [discord](https://discord.gg/D3GqtWXP6F)
